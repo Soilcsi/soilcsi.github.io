@@ -54,8 +54,8 @@ You will receive some output like the below.
 ```
  * Serving Flask app 'article' (lazy loading)
  * Environment: production
-[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
-[2m   Use a production WSGI server instead.[0m
+ [31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+ [2m   Use a production WSGI server instead.[0m
  * Debug mode: off
  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
 ```
